@@ -1,0 +1,32 @@
+{
+  "name": "youtube_downloader",
+  "version": "1.0.0",
+  "description": "Youtube videos download using NodeJs, Express & YouTube-DL",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bilashcse/youtube_downloader.git"
+  },
+  "keywords": [
+    "downloader"
+  ],
+  "author": "Bilash",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bilashcse/youtube_downloader/issues"
+  },
+  "homepage": "https://github.com/bilashcse/youtube_downloader#readme",
+  "devDependencies": {
+    "eslint": "^6.7.2",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2"
+  },
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "youtube-dl": "^2.1.0"
+  }
+}
