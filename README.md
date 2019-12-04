@@ -1,2 +1,2 @@
 # youtube_downloader
-Youtube videos download using NodeJs, Express &amp; YouTube-DL
+Youtube videos, playlists download using NodeJs & YouTube-DL
